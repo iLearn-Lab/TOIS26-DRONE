@@ -101,7 +101,7 @@ This repository currently provides:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/iLearn-Lab/DRONE.git
+git clone https://github.com/iLearn-Lab/TOIS26-DRONE.git
 cd DRONE
 ```
 
@@ -144,7 +144,7 @@ Before running, replace them with your local dataset root and feature paths.
 
 ## Checkpoints
 
-The cloud links of checkpoints: [Google Drive](https://drive.google.com/drive/folders/1QAocP9-h3YrtJuF0xbKRheFiZBQ4L2TI?usp=sharing).
+The cloud links of checkpoints: [Google Drive](https://drive.google.com/drive/folders/1QAocP9-h3YrtJuF0xbKRheFiZBQ4L2TI?usp=sharing) & [Hugging Face](https://huggingface.co/iLearn-Lab/TOIS26-DRONE).
 
 ---
 
